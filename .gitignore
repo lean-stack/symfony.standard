@@ -1,3 +1,10 @@
+
+# PhpStorm settings
+/.idea
+
+# NPM packages
+/node_modules
+
 /app/config/parameters.yml
 /build/
 /phpunit.xml
